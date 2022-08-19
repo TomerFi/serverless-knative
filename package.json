@@ -15,7 +15,7 @@
     "@serverless/core": "^1.1.1",
     "@serverless/docker-image": "^0.3.0",
     "@serverless/knative-eventing": "https://github.com/dmartinol/knative-eventing.git",
-    "@serverless/knative-serving": "https://github.com/dmartinol/knative-serving.git",
+    "@serverless/knative-serving": "github:TomerFi/knative-serving#allow-kourier",
     "@serverless/kubernetes-namespace": "^0.2.0",
     "bluebird": "^3.7.1",
     "chalk": "^2.4.2",
